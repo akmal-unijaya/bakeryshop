@@ -213,6 +213,11 @@ font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;font-siz
 .home{
 
 background-color:#90EE90 ;}
+	
+::placeholder {
+  color: red;
+  opacity: 1; /* Firefox */
+}
 
 .home1{
 
