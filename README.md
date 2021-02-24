@@ -1,1 +1,1 @@
-# bakeryshop
+upload sql file to phpmyadmin
